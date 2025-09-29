@@ -15,4 +15,6 @@ Awesome works in the field of 3D vision.
 - PointCleanNet:Learning to Denoise and Remove Outliers from Dense Point Clouds (CVPR 2019)
 
 ### 3. Completion
+- PCN: Point completion network (3DV 2018)
+- PF-Net: Point Fractal Network for 3D Point Cloud Completion (CVPR 2020)
 - P2C: Self-Supervised Point Cloud Completion from Single Partial Clouds (ICCV 2023)
