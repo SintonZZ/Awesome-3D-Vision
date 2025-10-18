@@ -19,6 +19,7 @@ Awesome works in the field of 3D vision.
 - PCN: Point completion network (3DV 2018)
 - PF-Net: Point Fractal Network for 3D Point Cloud Completion (CVPR 2020)
 - P2C: Self-Supervised Point Cloud Completion from Single Partial Clouds (ICCV 2023)
+- ACL-SPC: Adaptive Closed-Loop system for Self-Supervised Point Cloud Completion (CVPR 2023)
 
 ## 3D data processing library/software
 
