@@ -4,7 +4,7 @@ Awesome works in the field of 3D vision.
 - [Deep learning methods for point cloud processing](#deep-learning-methods-for-point-cloud-processing)
 - [3D data processing library/software](#3d-data-processing-library/software)
 
-## Deep learning methods for point cloud processing
+## Deep learning methods for basic point cloud processing
 
 ### 1. 3D Representation learning
 - PointNet (CVPR 2017)
