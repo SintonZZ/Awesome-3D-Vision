@@ -22,8 +22,8 @@ Awesome works in the field of 3D vision.
 - P2C: Self-Supervised Point Cloud Completion from Single Partial Clouds (ICCV 2023)
 - ACL-SPC: Adaptive Closed-Loop system for Self-Supervised Point Cloud Completion (CVPR 2023)
 
-## Estimate 3D Pose and Shape from Images
-- SMPL
+## 3D Pose and Shape Estimation
+- SMPL: A Skinned Multi-Person Linear Model
 - SMAL/SMALR/SMALST
 - BARC: Learning to Regress 3D Dog Shape from Images by Exploiting Breed Information
 
