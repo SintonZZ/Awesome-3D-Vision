@@ -25,4 +25,6 @@ Awesome works in the field of 3D vision.
 
 ### 1. Open3D
 ### 2. Point Cloud Library
-### 3. CloudCompare
+### 3. PyTorch3D
+### 4. CloudCompare
+### 5. MeshLab
