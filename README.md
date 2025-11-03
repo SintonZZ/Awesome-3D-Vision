@@ -23,9 +23,10 @@ Awesome works in the field of 3D vision.
 - ACL-SPC: Adaptive Closed-Loop system for Self-Supervised Point Cloud Completion (CVPR 2023)
 
 ## 3D Implicit Representations
-### Occupancy Field
-### Signed Distance Fields
-### Neural Radiance Field
+- Occupancy Field
+- Signed Distance Fields
+- Neural Radiance Field
+- 3D Gaussian Splatting
 
 ## 3D Model of the Human/Animal
 - SMPL: A Skinned Multi-Person Linear Model
