@@ -23,10 +23,15 @@ Awesome works in the field of 3D vision.
 - ACL-SPC: Adaptive Closed-Loop system for Self-Supervised Point Cloud Completion (CVPR 2023)
 
 ## 3D Implicit Representations
-- Occupancy Field
-- Signed Distance Fields
-- Neural Radiance Field
-- 3D Gaussian Splatting
+### 1. Occupancy Field
+- Occupancy networks: Learning 3d reconstruction in function space.
+### 2. Signed Distance Fields
+- DeepSDF: Learning Continuous Signed Distance Functions for Shape Representation.
+### 3. Neural Radiance Field
+- NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis.
+- NeRF: Neural Radiance Field in 3D Vision: A Comprehensive Review.
+### 4. 3D Gaussian Splatting
+- 3D Gaussian Splatting for Real-Time Radiance Field Rendering.
 
 ## 3D Model of the Human/Animal
 - SMPL: A Skinned Multi-Person Linear Model
