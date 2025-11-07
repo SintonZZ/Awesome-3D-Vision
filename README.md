@@ -4,7 +4,7 @@ Awesome works in the field of 3D vision.
 - [Deep learning methods for basic point cloud processing](#deep-learning-methods-for-basic-point-cloud-processing)
 - [3D Reconstruction](#3d-reconstruction)
 - [Estimate 3D Pose and Shape from Images](#Estimate-3D-Pose-and-Shape-from-Images)
-- [3D data processing library/software](#3D-data-processing-library-software)
+- [3D data processing library and software](#3D-data-processing-library-and-software)
 
 ## Deep learning methods for basic point cloud processing
 
