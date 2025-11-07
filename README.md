@@ -41,7 +41,7 @@ Awesome works in the field of 3D vision.
 - SMAL/SMALR/SMALST
 - BARC: Learning to Regress 3D Dog Shape from Images by Exploiting Breed Information
 
-## 3D data processing library/software
+## 3D data processing library and software
 - Open3D
 - Point Cloud Library
 - PyTorch3D
