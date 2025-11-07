@@ -23,7 +23,8 @@ Awesome works in the field of 3D vision.
 - P2C: Self-Supervised Point Cloud Completion from Single Partial Clouds (ICCV 2023)
 - ACL-SPC: Adaptive Closed-Loop system for Self-Supervised Point Cloud Completion (CVPR 2023)
 
-## 3D Implicit Representations
+## 3D Reconstruction
+- Advances in Feed-Forward 3D Reconstruction and View Synthesis: A Survey
 ### 1. Occupancy Field
 - Occupancy networks: Learning 3d reconstruction in function space.
 ### 2. Signed Distance Fields
@@ -34,14 +35,13 @@ Awesome works in the field of 3D vision.
 ### 4. 3D Gaussian Splatting
 - 3D Gaussian Splatting for Real-Time Radiance Field Rendering.
 
-## 3D Model of the Human/Animal
+## Estimate 3D Pose and Shape from Images
 - SMPL: A Skinned Multi-Person Linear Model
 - SMPLX: Expressive Body Capture: 3D Hands, Face, and Body from a Single Image
 - SMAL/SMALR/SMALST
 - BARC: Learning to Regress 3D Dog Shape from Images by Exploiting Breed Information
 
 ## 3D data processing library/software
-
 - Open3D
 - Point Cloud Library
 - PyTorch3D
